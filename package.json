@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ovation Travel Group - Debit Memo site",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",

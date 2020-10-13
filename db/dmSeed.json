@@ -1,0 +1,23 @@
+{
+  "8960000001": {
+      "opManager": "Alan Godwin",
+      "carrier": "001",
+      "carrierName": "AMERICAN AIRLINES, INC",
+      "memoNumber": "8960000001",
+      "ticketNumber": "7500000001",
+      "agencyNumber": "33892891",
+      "clientName": "Ovation Travel Group",
+      "ovid": "9999",
+      "csManager": "Ryan McNair",
+      "bookingAgent": "Shane Chapman",
+      "memoAmount": "$99.00",
+      "reasonCategory": "Commission",
+      "carrierReason": "Recall of commission on refunded tickets",
+      "memoIssueDate": "01/01/2020",
+      "ticketAmount": "1000",
+      "ticketIssueDate": "01/01/2020",
+      "passengerName": "Mahtani/Sunil",
+      "ticketPassenger": "Mahtani/Sunil",
+      "memoReason": "Incorrect Commissions"
+  }
+}
